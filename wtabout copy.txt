@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>ABOUT US</title>
+<meta name="viewpoint" content="width=device-width,initial-scale=1">
+<style>
+#pic{
+background-image:url("image/redfort2.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-size:50%;
+height:300px;
+border-radius:80px;
+}
+body /*{
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)),url(/Users/rauf/Desktop/web2/image/d4.jpg);
+    height:1500px;
+    background-repeat:no-repeat;
+    background-size:100%;
+}*/
+img{
+    filter: drop-shadow(10px 20px 25px #c8bcbc);
+}
+#pic1{
+    height:300px;
+    width:300px;
+    border-radius:60px;
+    border-width: 8px;
+    border-color: #4d1805;
+}
+</style>
+</head>
+<body >
+    <br>
+    <img src="image/unsp3.jpeg" class="d-block w-100" alt="...">
+    <!--<div style="height:150px; background:#a1350e; border-radius: 63px;"><br>
+        <h1 style="color:rgb(0, 0, 0);font-family:'Lucida Sans', 'Lucida Sans Regular', 
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white; text-shadow: 2px 2px 4px #000000;"><center>ABOUT<br>Team Explore-Delhi</center></h1>
+    </div><br>-->
+ <center> 
+<!--<img src="image/redfort2.jpg" style="border-color:#4d1805;" id="pic1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="image/shop5.jpg" id="pic1">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="image/cooking.avif" id="pic1">-->
+</center>  
+    <br>
+    <h1 style="color:#752609;text-shadow: 2px 2px 4px hsl(0, 5%, 71%); font-size:40px;">
+        &nbsp&nbsp&nbsp&nbsp&nbspSOMETIMES A BREAK IN YOUR ROUTINE IS ALL YOU NEED.</h1>
+<div style="height:250px; background:#752609; border-radius: 63px;"><br><br>
+    <center>
+    <h1 style="color:white;font-size:30px;">About Team Explore Delhi</h1>
+    <p style="color:rgb(249, 246, 246);font-family:'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size:20px";>
+    have used explicit knowledge of Web Technologies to create a website that makes surfing Delhi an easier task.
+    It's the website made for Hodophiles to explore Delhi to it's most and enjoy the best time of their
+    life. <br>
+    From India gate to National Zoological park and from pricing to timing, Everything at one place.
+    <br><br><br><br>
+</p>  
+<br><br><br><br><br><br></center>
+</div><br><br><br>
+</body>
+</html>

@@ -1,0 +1,51 @@
+#btn{
+    color:rgb(0, 0, 0);
+    background:hsla(55, 84%, 55%, 0.722);
+    font-family:Bradley Hand, cursive;
+    padding:9px;
+    border:none;
+    cursor:pointer;
+    border-radius: 7px;
+    font-size: 150%;
+    text-decoration:none;
+}
+#pfont{
+    color:white;
+    font-size:30px;
+    font-family: Bradley Hand, cursive;
+    padding-top:0px;
+    padding-left:60px;
+}
+.c{
+    border-radius: 30px;
+    
+}
+h1 {
+    position: fixed;
+    top: 100px;
+    left: 100px;
+  }
+img{
+    border-radius: 80px;
+    
+}
+div{
+    border-radius: 80px;
+    max-width:1200px;
+    
+    
+}
+.f{
+    font-size:40px;
+    font-family: Bradley Hand, cursive;
+}
+.btn-primary{
+    border-radius: 7px;
+    font-size: 110%;
+    font-family:Bradley Hand, cursive;
+    background:hsl(260, 6%, 90%);
+    padding:9px;
+    border:none;
+    cursor:pointer;
+    text-decoration:none;
+}
